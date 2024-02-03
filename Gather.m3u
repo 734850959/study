@@ -17,6 +17,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/cctv3.png" group-title="IPV6·央视",CCTV3 4K「IPV6」
 http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/index.m3u8
+@淼淼淼 CCTV1,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/cctv16.png" group-title="IPV6·央视",CCTV16 4K「IPV6」
 https://epg.pw/stream/9eeb49b6d1048ea7c05421a7409300f43ed5695e937a78feb1cc9eb1cb4de5b4.m3u8
 #EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://epg.112114.xyz/logo/cctv4k.png" group-title="IPV6·央视",CCTV4K「IPV6」
