@@ -177,3 +177,5 @@ http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="IPV6·数字",CHC家庭影院「IPV6」
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-name="云南省组播" group-title="组播",云南省组播「IPV6」
+https://gyssi.link/iptv/chinaiptv/%E4%BA%91%E5%8D%97%E7%9C%81.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjY3NTk4ODc4NDksImlhdCI6MTcwNjY4ODI3MSwiZXhwIjoxNzA5MjgwMjcxfQ.qyOsbMi1HCVV0414cbkmmD_JDCAfeexCbpQZb4kmH8c
