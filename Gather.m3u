@@ -45,7 +45,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1535864683_104020061/
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/cctv9.png" group-title="IPV6·央视",CCTV9「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw2052852131_1088950731/ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8?icpid=3&RTS=1674386463&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/cctv10.png" group-title="IPV6·央视",CCTV10「IPV6」
-http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw1745481248_-2099858619/ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8?icpid=3&RTS=1674386155&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/cctv11.png" group-title="IPV6·央视",CCTV11「IPV6」
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/cctv12.png" group-title="IPV6·央视",CCTV12「IPV6」
