@@ -184,15 +184,9 @@ http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="IPV6·数字",CHC家庭影院「IPV6」
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 tvg-name="黑莓电影" group-title="IPV6·数字",黑莓电影「IPV6」
-http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1 tvg-name="茶频道" group-title="IPV6·数字",茶频道「IPV6」
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226808/1.m3u8
 #EXTINF:-1 tvg-name="环球电视台" group-title="IPV6·数字",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" group-title="IPV6·数字",金鹰卡通「IPV6」
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
-#EXTINF:-1 tvg-name="CCTV综艺娱乐" group-title="IPV6·数字",CCTV综艺娱乐
-https://play-hsbj.vzan.com/slowlive/582578232529613470/live.m3u8#EXTINF:-1 tvg-name="CCTV综艺娱乐" group-title="IPV6·数字",CCTV综艺娱乐
-#EXTINF:-1 tvg-name="中华美食" group-title="IPV6·数字",中华美食
-http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221227647/index.m3u8
