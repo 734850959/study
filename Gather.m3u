@@ -196,6 +196,8 @@ http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="IPV6·数字",CHC家庭影院「IPV6」
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 tvg-name="中华美食" group-title="IPV6·数字",中华美食「IPV6」
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000052/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000052&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="都市剧场" group-title="IPV6·数字",都市剧场「IPV6」
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
 #EXTINF:-1 tvg-name="欢笑剧场" group-title="IPV6·数字",欢笑剧场「IPV6」
