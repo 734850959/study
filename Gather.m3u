@@ -52,7 +52,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001292/index.m3
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/cctv15.png" group-title="IPV6·央视",CCTV15「IPV6」
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/cctv16.png" group-title="IPV6·央视",CCTV16「IPV6」
-http://123.6.102.32:11789/51.php?id=2022575103.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/cctv17.png" group-title="IPV6·央视",CCTV17「IPV6」
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/cctv4k.png" group-title="IPV6·央视",CCTV4k
@@ -83,6 +83,10 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://epg.112114.xyz/logo/女性时尚.png" group-title="IPV6·央视",CCTV女性时尚「IPV6」
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://epg.112114.xyz/logo/央视文化精品.png" group-title="IPV6·央视",CCTV央视文化精品「IPV6」
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
+#EXTINF:-1 tvg-name="电视指南" tvg-logo="https://epg.112114.xyz/logo/电视指南.png" group-title="IPV6·央视",CCTV电视指南「IPV6」
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
 
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视「IPV6」
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -194,8 +198,22 @@ http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122
 http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-name="都市剧场" group-title="IPV6·数字",都市剧场「IPV6」
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
+#EXTINF:-1 tvg-name="欢笑剧场" group-title="IPV6·数字",欢笑剧场「IPV6」
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
+#EXTINF:-1 tvg-name="乐游" group-title="IPV6·数字",乐游「IPV6」
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
+#EXTINF:-1 tvg-name="西乡融媒" group-title="IPV6·数字",西乡融媒「IPV6」
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002207/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
+#EXTINF:-1 tvg-name="快乐垂钓" group-title="IPV6·数字",快乐垂钓「IPV6」
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
+#EXTINF:-1 tvg-name="游戏风云" group-title="IPV6·数字",游戏风云「IPV6」
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
 #EXTINF:-1 tvg-name="CGTN" group-title="IPV6·数字",CGTN「IPV6」
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
+#EXTINF:-1 tvg-name="CGTN-1" group-title="IPV6·数字",CGTN-1「IPV6」
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
+#EXTINF:-1 tvg-name="CGTN-Documentary" group-title="IPV6·数字",CGTN-Documentary「IPV6」
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
 #EXTINF:-1 tvg-name="新闻资讯" group-title="IPV6·数字",新闻资讯「IPV6」
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001580/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
 #EXTINF:-1 tvg-name="新闻综合" group-title="IPV6·数字",新闻综合「IPV6」
@@ -207,7 +225,13 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001594/index.m3
 #EXTINF:-1 tvg-name="财富天下" group-title="IPV6·数字",财富天下「IPV6」
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001689/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
 #EXTINF:-1 tvg-name="茶频道" group-title="IPV6·数字",茶频道「IPV6」
-http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226808/1.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
+#EXTINF:-1 tvg-name="城固" group-title="IPV6·数字",城固「IPV6」
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002375/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
+#EXTINF:-1 tvg-name="FGTV-1" group-title="IPV6·数字",FGTV-1「IPV6」
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002565/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
+#EXTINF:-1 tvg-name="金色学堂" group-title="IPV6·数字",金色学堂「IPV6」
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002675/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
 #EXTINF:-1 tvg-name="环球电视台" group-title="IPV6·数字",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" group-title="IPV6·数字",金鹰卡通「IPV6」
