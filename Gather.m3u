@@ -160,8 +160,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001312/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002033/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
-#EXTINF:-1 tvg-name="凤凰香港" group-title="IPV6·数字",凤凰香港「IPV6」
-http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" group-title="IPV6·数字",凤凰中文「IPV6」
 https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="IPV6·数字",凤凰资讯「IPV6」
