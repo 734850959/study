@@ -46,7 +46,7 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/cctv12.png" group-title="IPV6·央视",CCTV12「IPV6」
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/cctv13.png" group-title="IPV6·央视",CCTV13「IPV6]
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/cctv14.png" group-title="IPV6·央视",CCTV14「IPV6」
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/cctv15.png" group-title="IPV6·央视",CCTV15「IPV6」
@@ -163,7 +163,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002033/index.m3
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
 #EXTINF:-1 tvg-name="凤凰中文" group-title="IPV6·数字",凤凰中文「IPV6」
-https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="IPV6·数字",凤凰资讯「IPV6」
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-name="第一财经" group-title="IPV6·数字",第一财经「IPV6」
