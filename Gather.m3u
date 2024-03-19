@@ -158,6 +158,10 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002033/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
+#EXTINF:-1 tvg-name="云南娱乐频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0706/20160706013916898.jpg",云南娱乐频道
+http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
+#EXTINF:-1 tvg-id="云南都市频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0706/20160706014025815.jpg",云南都市频道
+http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" group-title="IPV6·数字",凤凰中文「IPV6」
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="IPV6·数字",凤凰资讯「IPV6」
