@@ -161,13 +161,11 @@ http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
 #EXTINF:-1 tvg-id="云南都市频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/0706/20160706014025815.jpg",云南都市频道
 http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" group-title="IPV6·数字",凤凰中文「IPV6」
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="IPV6·数字",凤凰资讯「IPV6」
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-name="TVB 新闻" group-title="IPV6·数字",TVB 新闻
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
-#EXTINF:-1 tvg-name="TVB 财经" group-title="IPV6·数字",TVB 财经
-http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthfgfbvcfghjyfjsjbcvxjvbxjsfjfjsehbvbjtvbd5.flv
 #EXTINF:-1 tvg-name="壹 新 闻" group-title="IPV6·数字",壹 新 闻
 http://ali.hlspull.yximgs.com/live/huanqiuhklivemjfoyjvjsdvbnwejtjujjxjcvfjjsjfhfjddjjlhtbchyxw.flv
 #EXTINF:-1 tvg-name="第一财经" group-title="IPV6·数字",第一财经「IPV6」
