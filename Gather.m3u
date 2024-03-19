@@ -236,5 +236,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002565/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002675/index.m3u8?virtualDomain=yinhe.live_hls.zte.com?WithCaption
 #EXTINF:-1 tvg-name="环球电视台" group-title="IPV6·数字",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 tvg-name="华数4K影视" group-title="IPV6·数字",华数4K影视
+http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000003000004748&amp;livemode=1&amp;stbId=3
 #EXTINF:-1 tvg-name="金鹰卡通" group-title="IPV6·数字",金鹰卡通「IPV6」
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
