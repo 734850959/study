@@ -46,7 +46,7 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/cctv12.png" group-title="IPV6·央视",CCTV12「IPV6」
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/cctv13.png" group-title="IPV6·央视",CCTV13「IPV6]
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/cctv14.png" group-title="IPV6·央视",CCTV14「IPV6」
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/cctv15.png" group-title="IPV6·央视",CCTV15「IPV6」
