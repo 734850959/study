@@ -242,5 +242,7 @@ http://zb.xzxwhcb.com:9999/hls/world.m3u8
 http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000003000004748&amp;livemode=1&amp;stbId=3
 #EXTINF:-1 tvg-name="豆瓣高分" group-title="IPV6·数字",豆瓣高分
 http://43.138.170.29:35455/douyu/8770422
+#EXTINF:-1 tvg-name="好莱坞电影" group-title="IPV6·数字",好莱坞电影
+ttps://ali.hlspull.yximgs.com/live/huanqiuhklivejmpjjwdeyjsjjcjvsjfjljvjfhjuejdfjhjwjljcmbhlwjy.flv
 #EXTINF:-1 tvg-name="金鹰卡通" group-title="IPV6·数字",金鹰卡通「IPV6」
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
