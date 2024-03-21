@@ -167,7 +167,7 @@ http://221.204.43.29/a18f4a1e8ee5c9fe3d0f338af6467843.v.smtcdns.net/zycfcdn.gdwl
 #EXTINF:-1 tvg-name="凤凰中文" group-title="IPV6·数字",凤凰中文「IPV6」
 http://117.27.190.42:9901/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="IPV6·数字",凤凰资讯「IPV6」
-http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+http://113.64.145.228:8081/hls/36/index.m3u8
 #EXTINF:-1 tvg-name="TVB 新闻" group-title="IPV6·数字",TVB 新闻
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
 #EXTINF:-1 tvg-name="壹 新 闻" group-title="IPV6·数字",壹 新 闻
