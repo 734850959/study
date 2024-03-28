@@ -169,7 +169,7 @@ http://118.254.202.28:8888/udp/239.76.246.7:1234
 #EXTINF:-1 tvg-name="凤凰资讯" group-title="IPV6·数字",凤凰资讯「IPV6」
 http://113.64.145.228:8081/hls/36/index.m3u8
 #EXTINF:-1 tvg-name="TVB 新闻" group-title="IPV6·数字",TVB 新闻
-http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv
+,https://glive.grtn.cn/live/9d4ab39b4ab6325277081b76dbc3c4b9.m3u8
 #EXTINF:-1 tvg-name="壹 新 闻" group-title="IPV6·数字",壹 新 闻
 http://ali.hlspull.yximgs.com/live/huanqiuhklivemjfoyjvjsdvbnwejtjujjxjcvfjjsjfhfjddjjlhtbchyxw.flv
 #EXTINF:-1 tvg-name="第一财经" group-title="IPV6·数字",第一财经「IPV6」
